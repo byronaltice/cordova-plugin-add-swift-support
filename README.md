@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/cordova-plugin-add-swift-support.svg)](https://badge.fury.io/js/cordova-plugin-add-swift-support) [![Build Status](https://travis-ci.org/akofman/cordova-plugin-add-swift-support.svg?branch=master)](https://travis-ci.org/akofman/cordova-plugin-add-swift-support) [![npm](https://img.shields.io/npm/dm/cordova-plugin-add-swift-support.svg)]()
 
-# cordova-plugin-add-swift-support 
+# cordova-plugin-add-swift-support
 
 ![swift-128x128](https://cloud.githubusercontent.com/assets/579922/15999501/79196b48-3146-11e6-836e-061a7ef53571.png)
 
@@ -31,8 +31,7 @@ If the `cordova-plugin-add-swift-support` plugin is already installed to your pr
 
 ## Contributing
 
-The src folder contains ECMAScript 2015 source files.
-This project is built and bundled using [Babel](https://babeljs.io/) and [Webpack](https://webpack.js.org/).
+The src folder contains ECMAScript 2015 source files, the minimum Node.js version is `6` (Boron).
 
 ## License
 
