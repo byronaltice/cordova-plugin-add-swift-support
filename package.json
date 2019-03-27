@@ -1,22 +1,22 @@
 {
-  "name": "cordova-plugin-add-swift-support",
-  "version": "2.0.0",
+  "name": "cordova-plugin-add-swift-support-modern",
+  "version": "2.0.3",
   "description": "Add Swift support to your iOS plugins",
-  "homepage": "https://github.com/akofman/cordova-plugin-add-swift-support",
+  "homepage": "https://github.com/byronaltice/cordova-plugin-add-swift-support",
   "author": {
     "name": "Alexis Kofman",
     "email": "alexis.kofman@gmail.com",
     "url": "http://twitter.com/alexiskofman"
   },
   "cordova": {
-    "id": "cordova-plugin-add-swift-support",
+    "id": "cordova-plugin-add-swift-support-modern",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akofman/cordova-plugin-add-swift-support.git"
+    "url": "https://github.com/byronaltice/cordova-plugin-add-swift-support.git"
   },
   "keywords": [
     "cordova",
